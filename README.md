@@ -41,4 +41,4 @@ num | tx_hash
 
 ## 6. Distribution of mistaken transaction fees by each validator
 
-- [Distributions.md](https://github.com/b-harvest/rescue-fatfinger/blob/master/Distributions.md)
+- [Distributions.md](https://github.com/b-harvest/rescue-fatfinger/blob/master/Distribution.md)
