@@ -41,7 +41,7 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 
 ### height 98182
 moniker | validator_cons_addr_byte | power | proposer | tx_fee_earned
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 total |  | 81688785157586 |  | 14287033010
 🐠 stake.fish | bitfi | AC2D56057CD84765E6FBE318979093E8E44AA18F | 7971447748183 | no | 1324464821
 Polychain Labs | 2B19594437F1920B5AF6461FAB81AEC99790FEB1 | 7936683252426 | yes | 2033040062
