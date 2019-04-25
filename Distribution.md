@@ -1,4 +1,7 @@
 # Distribution of each tx_fee by each validator
+<br />
+<br />
+
 
 ## Calculation formula
 
@@ -6,6 +9,8 @@
 - total_tx_fee_earned_val = total_tx_fee * (1-0.02) // deducting community tax
 - proposer_rewards = total_tx_fee_earned_val * (0.04 + 0.01) // base reward(1%) + bonus reward(4%)
 - tx_fee_earned_each_val = total_tx_fee_earned_val * (1 - 0.04 - 0.01) * (power_each_val / total_power)
+<br />
+
 
 ### height 98182
 moniker | validator_cons_addr_byte | power | proposer | tx_fee_earned
@@ -98,6 +103,9 @@ commercio.network | <sub>D7F7C79487C10A5CF1ABEB1DBD81E8D49757C422</sub> | 100000
 BTC.Secure | <sub>83D5C5F72169043F54F1CA7095E488BAF3E849EF</sub> | 1000000 | no | 166
 oldDelega | <sub>D4C63291134A25AB7E0AF43C08039341D733733B</sub> | 1000000 | no | 166
 
+<br />
+
+
 ### height 98201
 moniker | validator_cons_addr_byte | power | proposer | tx_fee_earned
 --- | --- | --- | --- | ---
@@ -188,6 +196,9 @@ Colmena | <sub>DA76CA45BDDA85831B15912619799FDFB7235B76</sub> | 1002000 | no | 3
 commercio.network | <sub>D7F7C79487C10A5CF1ABEB1DBD81E8D49757C422</sub> | 1000000 | no | 30
 BTC.Secure | <sub>83D5C5F72169043F54F1CA7095E488BAF3E849EF</sub> | 1000000 | no | 30
 oldDelega | <sub>D4C63291134A25AB7E0AF43C08039341D733733B</sub> | 1000000 | no | 30
+
+<br />
+
 
 ### height 98211
 moniker | validator_cons_addr_byte | power | proposer | tx_fee_earned
@@ -280,6 +291,9 @@ commercio.network | <sub>D7F7C79487C10A5CF1ABEB1DBD81E8D49757C422</sub> | 100000
 BTC.Secure | <sub>83D5C5F72169043F54F1CA7095E488BAF3E849EF</sub> | 1000000 | no | 30
 oldDelega | <sub>D4C63291134A25AB7E0AF43C08039341D733733B</sub> | 1000000 | no | 30
 
+<br />
+
+
 ### height 98222
 moniker | validator_cons_addr_byte | power | proposer | tx_fee_earned
 --- | --- | --- | --- | ---
@@ -370,6 +384,9 @@ Colmena | <sub>DA76CA45BDDA85831B15912619799FDFB7235B76</sub> | 1002000 | no | 3
 commercio.network | <sub>D7F7C79487C10A5CF1ABEB1DBD81E8D49757C422</sub> | 1000000 | no | 30
 BTC.Secure | <sub>83D5C5F72169043F54F1CA7095E488BAF3E849EF</sub> | 1000000 | no | 30
 oldDelega | <sub>D4C63291134A25AB7E0AF43C08039341D733733B</sub> | 1000000 | no | 30
+
+<br />
+
 
 ### height 98227
 moniker | validator_cons_addr_byte | power | proposer | tx_fee_earned
