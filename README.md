@@ -7,7 +7,7 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 
 - fees/gas/gas-price is a very confusing concept for normal users.
 - gaiacli is not well-documented for normal users.
-- Cosmos team suggested delegators to use gaiacli although there was no perfect documentation of it.
+- Cosmos team suggested delegators to use gaiacli although there was no easy-to-understand fees/gas/gas-price documentation.
 - There was no easy & secure way to generate and broadcast a transaction in early cosmoshub-1
 
 
