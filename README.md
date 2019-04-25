@@ -11,7 +11,7 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 - There was no easy & secure way to generate and broadcast a transaction in early cosmoshub-1
 
 
-## 2. Victim Address
+## 2. Victim address
 
 - cosmos10whs4lsz6yjc90nzs6t4re5jv6lj59qr6zuxf8
 
@@ -28,7 +28,7 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
   6397D0A7F4B087BECEEE63E06ADB9121A013C1D3B0F8F361D52F515798F024D4
 
 
-## 4. Transaction Contents
+## 4. Transaction contents
 
 - [txs.json](https://github.com/b-harvest/rescue-fatfinger/blob/master/txs.json)
 
@@ -37,7 +37,7 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 
 - 14,578.6 + 2,697.152 + 2,697.152 + 2,697.152 + 7,289.6 = **29,959.656** ATOM
 
-## 6. Distribution of mistaken transaction fees
+## 6. Distribution of mistaken transaction fees by each validator
 
 ### height 98182
 moniker | validator_cons_addr_byte | power | proposer | tx_fee_earned
