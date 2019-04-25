@@ -1,4 +1,4 @@
-### Distribution of each tx_fee by each validator
+# Distribution of each tx_fee by each validator
 
 ## Calculation formula
 
