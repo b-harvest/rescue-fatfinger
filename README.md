@@ -36,3 +36,10 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 ## 5. Total used atom from 5 mistaken transactions
 
 - 14,578.6 + 2,697.152 + 2,697.152 + 2,697.152 + 7,289.6 = **29,959.656** ATOM
+
+## 6. Distribution of mistaken transaction fees
+
+Markdown | Less | Pretty
+--- | --- | ---
+aaa | bbb | ccc
+1 | 2 | 3
