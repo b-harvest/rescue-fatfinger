@@ -30,7 +30,7 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 
 ## 4. Transaction Contents
 
-- [txs.json](https://github.com/b-harvest/rescue-fatfinger/edit/master/txs.json)
+- [txs.json](https://github.com/b-harvest/rescue-fatfinger/blob/master/txs.json)
 
 
 ## 5. Total used atom from 5 mistaken transactions
