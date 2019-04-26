@@ -17,7 +17,7 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 <br />
 
 
-## 2. Transactions with above 10ATOM fees
+## 2. Transactions with above 10ATOM fees(cosmoshub-1)
 
 height | tx_fee | tx_hash | tx_generator
 --- | --- | --- | ---
@@ -33,7 +33,7 @@ height | tx_fee | tx_hash | tx_generator
 <br />
 
 
-## 3. Transaction generator with above 1,000ATOM fees
+## 3. Transaction generator with above 1,000ATOM fees(cosmoshub-1)
 
 - cosmos10whs4lsz6yjc90nzs6t4re5jv6lj59qr6zuxf8
 <br />
@@ -45,7 +45,7 @@ height | tx_fee | tx_hash | tx_generator
 - [txs.json](https://github.com/b-harvest/rescue-fatfinger/blob/master/txs.json)
 <br />
 
-## 5. Total used atom from 5 mistaken transactions
+## 5. Total used ATOM from 5 mistaken transactions
 
 - 14,578.6 + 2,697.152 + 2,697.152 + 2,697.152 + 7,289.6 = **29,959.656** ATOM
 <br />
