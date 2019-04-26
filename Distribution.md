@@ -4,7 +4,7 @@
 
 ## Definition
 
-Calculating all rewards received from each tx_fee to all delegators of each validator.
+Calculating all rewards received from each fatfinger_tx_fee to all delegators of each validator.
 <br />
 <br />
 
