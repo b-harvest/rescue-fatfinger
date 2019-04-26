@@ -6,6 +6,7 @@
 
 Calculating all rewards received from each tx_fee to all delegators of each validator.
 <br />
+<br />
 
 
 
