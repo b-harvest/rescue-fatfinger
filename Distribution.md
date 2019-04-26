@@ -1,10 +1,11 @@
 # Distribution of each tx_fee by each validator
 <br />
-<br />
+
 
 ## Definition
 
 Calculating all rewards received from each tx_fee to all delegators of each validator.
+<br />
 
 
 ## Calculation formula
