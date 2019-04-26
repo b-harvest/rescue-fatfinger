@@ -14,9 +14,9 @@ Calculating all rewards received from each fatfinger_tx_fee to all delegators of
 
 - assumption : proposer gets full 5% proposer_rewards
 
-- proposer_rewards = total_tx_fee * (0.04 + 0.01) // base reward(1%) + bonus reward(4%) [sdk github link](https://github.com/cosmos/cosmos-sdk/blob/f0d1efa43c4a0ffc9aae5d277f7c283f8532a5df/x/distribution/keeper/allocation.go#L39)
+- proposer_rewards = total_tx_fee * (0.04 + 0.01) // base reward(1%) + bonus reward(4%) ([sdk github link](https://github.com/cosmos/cosmos-sdk/blob/f0d1efa43c4a0ffc9aae5d277f7c283f8532a5df/x/distribution/keeper/allocation.go#L39))
 
-- tx_fee_earned_each_val = total_tx_fee * (1 - 0.04 - 0.01 - 0.02) * (power_each_val / total_power) // deduct proposer reward & community tax [sdk github link](https://github.com/cosmos/cosmos-sdk/blob/f0d1efa43c4a0ffc9aae5d277f7c283f8532a5df/x/distribution/keeper/allocation.go#L64)
+- tx_fee_earned_each_val = total_tx_fee * (1 - 0.04 - 0.01 - 0.02) * (power_each_val / total_power) // deduct proposer reward & community tax ([sdk github link](https://github.com/cosmos/cosmos-sdk/blob/f0d1efa43c4a0ffc9aae5d277f7c283f8532a5df/x/distribution/keeper/allocation.go#L64))
 
 <br />
 
