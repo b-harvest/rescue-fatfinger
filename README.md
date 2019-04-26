@@ -8,6 +8,7 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 ## Desclaimer
 
 The victim is delegating 25k ATOM to B-Harvest.
+<br />
 
 
 ## 1. Reasoning of rescue
