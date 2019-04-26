@@ -2,6 +2,10 @@
 <br />
 <br />
 
+## Definition
+
+Calculating all rewards receive from each tx_fee to all delegators of each validator.
+
 
 ## Calculation formula
 
