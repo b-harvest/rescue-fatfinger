@@ -4,7 +4,7 @@
 
 ## Definition
 
-Calculating all rewards receive from each tx_fee to all delegators of each validator.
+Calculating all rewards received from each tx_fee to all delegators of each validator.
 
 
 ## Calculation formula
