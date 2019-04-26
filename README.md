@@ -14,6 +14,7 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 
 **We respectfully ask generosity of validators to donate 50% of mistakenly payed fees to the generator for the behalf of their delegators**
 <br />
+<br />
 
 
 ## 2. Transactions with above 10ATOM fees
