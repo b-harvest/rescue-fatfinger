@@ -17,7 +17,7 @@ Calculating all rewards received from each tx_fee to all delegators of each vali
 <br />
 
 
-## total tx_fee_earned by each validator
+## Total tx_fee_earned by each validator
 moniker | validator_cons_addr_byte | total_tx_fee_earned
 --- | --- | ---
 total |  | 29360462880
@@ -110,7 +110,7 @@ oldDelega | <sub>D4C63291134A25AB7E0AF43C08039341D733733B</sub> | 341
 <br />
 
 
-## tx_fee_earned by each validator for each transaction
+## Tx_fee_earned by each validator for each transaction
 
 
 ### height 98182
