@@ -12,7 +12,7 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 - There was no easy & secure way to generate and broadcast a transaction by client-apps in early cosmoshub-1
 - Those 5 transactions are the only transactions with above 1,000ATOM fees in cosmoshub-1
 
-**We respectfully ask generosity of validators to donate 50% of mistakenly payed fees to the generator for the behalf of their delegators(It is still very thankful if validators donate more than 50% of mistakenly payed fees.)**
+**We respectfully ask generosity of validators to donate 50% of mistakenly payed fees to the generator for the behalf of their delegators(It is still very thankful if validators donate more of less than 50% of mistakenly payed fees!)**
 <br />
 <br />
 
