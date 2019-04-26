@@ -8,6 +8,7 @@ Calculating all rewards received from each tx_fee to all delegators of each vali
 <br />
 
 
+
 ## Calculation formula
 
 - proposer_rewards = total_tx_fee * (0.04 + 0.01) // base reward(1%) + bonus reward(4%)
