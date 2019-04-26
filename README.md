@@ -4,6 +4,12 @@ This repo is about rescuing a fatfinger transaction generator who made a catastr
 <br />
 <br />
 
+
+## Desclaimer
+
+The victim is delegating 25k ATOM to B-Harvest.
+
+
 ## 1. Reasoning of rescue
 
 - fees/gas/gas-price is a very confusing concept for normal users.
