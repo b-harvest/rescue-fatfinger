@@ -26,7 +26,7 @@ Calculating all rewards received from each fatfinger_tx_fee to all delegators of
 
 ### total tx_fee_earned by each validator
 moniker | validator_cons_addr_byte | total_tx_fee | self_tx_fee | other_tx_fee
---- | --- | ---
+--- | --- | --- | --- | ---
 total |  | 29360462880|8858197362|2199046015
 🐠 stake.fish ! bitfi | AC2D56057CD84765E6FBE318979093E8E44AA18F | 3083388154 | 7349276 | 123041555
 Polychain Labs | 2B19594437F1920B5AF6461FAB81AEC99790FEB1 | 3435980650 | 3142622604 | 58671609
